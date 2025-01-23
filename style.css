@@ -1,0 +1,14 @@
+#e1{
+    color:rgba(10, 80, 142, 0.877);
+    background-color:beige;
+}
+h3{
+    color:brown;
+    background-color:darkgrey
+}
+table{
+    border-color:crimson;
+}
+*{
+    background-color:rgb(163, 244, 244);
+}
